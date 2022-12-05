@@ -23,4 +23,4 @@ This website was creating using visual studio code programming and then uploaded
 
 #Media
 
-The photo used at the home page has been taken from Google images to give you an idea about the theme of the quiz. 
+The photo used at the home page has been taken from Google images to give you an idea about the theme of the quiz.
